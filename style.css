@@ -1,0 +1,51 @@
+body
+ {
+     background-color: #f0f8ff;
+}
+h1
+{
+     color: blue;
+     font-family: monospace;
+     font-size: 150%;
+}
+table, th, td {
+  border: 1px solid black;
+ border-collapse: collapse;
+}
+h1.Info
+{
+  font-family: cursive;
+  text-align: center;
+  font-size: 30px;
+
+}
+
+p.bio{
+  color:blue;
+  border: 1px solid #adf2ff;
+  padding: 25px;
+  margin: 40px;
+}
+img{
+  border-radius: 100px;
+
+
+}
+
+#p01
+{
+  color: #ff00ff;
+}
+
+p.p02
+{
+  color: blue;
+}
+
+p
+{
+  color: red;
+   font-family: verdana;
+   font-size: 150%;
+
+}
